@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="..\static\css\global.css">
+</head>
+<body>
+<title>Паттерны - год</title>
+ <div class="top_menu">
+    <table class="table_menu" align="center" border="1" cellpadding="7" cellspacing="0" style="width:800px; font-size: 15px; font-family: Microsoft JhengHei Light; font-weight:bold; border-collapse:collapse; background-color:#b0d1f7">
+        <tbody>
+            <tr>
+                <td style="text-align:center"><a href="\index.html">Индикаторы</a></td>
+                <td style="text-align:center"><a href="\patterns.html">Паттерны</a></td>
+                <td style="text-align:center">Статьи</td>
+                <td style="text-align:center">Помощь в развитии</td>
+                <td style="text-align:center">О проекте</td>
+            </tr>
+        </tbody>
+    </table>
+ </div>
+
+ <div class="middle_block">
+    <h4 style="margin:5px; font-size: 17px; font-family: Microsoft JhengHei Light; font-weight:bold">Финансовый инструмент: EUR-USD</h4>
+    <p style="margin:5px; font-size: 10px; font-family: Microsoft JhengHei Light; font-weight:bold">Наши рекомендации к торговле</p>
+    <p style="text-align:center; margin-top:5px"><img src="\static\recommendation.png" alt="recommendation" width="380" height="150">
+    <div class="left_middle">
+     <p style="margin:20px; font-size: 12px; font-family: Microsoft JhengHei Light; font-weight:bold">Последнее значение:</p><b>{{ cls }}</b>
+     <p style="margin:20px; font-size: 12px; font-family: Microsoft JhengHei Light; font-weight:bold">Индикатор актуальности:</p><b>{{ act }}</p>
+    </div>
+        <div class="right_middle">
+        <p style="margin:20px; font-size: 12px; font-family: Microsoft JhengHei Light; font-weight:bold">Период агрегации:</p>
+        <select size="1">
+            <option selected value>Выбрать</option>
+            <option VALUE="\index.html">Год</option>
+        </select>
+        <p style="margin:20px; font-size: 12px; font-family: Microsoft JhengHei Light; font-weight:bold">Финансовый инструмент:</p>
+        <select size="1">
+            <option VALUE="\index.html">EUR-USD</option>
+            <option VALUE="\month.html">USD-RUB (разработка)</option>
+            <option VALUE="\week.html">GBP-CNY (разработка)</option>
+        </select>
+    </div>
+ </div>
+
+ <div class="main_content">
+     <p style="text-align:center; margin-top:5px; margin-bottom:10px; font-size: 20px; font-family: Microsoft JhengHei Light;">Паттерны "Голова и плечи"<br></p>
+     <p style="text-align:center; margin-top:5px; margin-bottom:5px"><img src="\static\hs_y.png" alt="hs_y" width="700" height="280">
+     <p style="margin-top:5px; margin-bottom:5px; margin-left:7%; font-size: 12px; font-family: Microsoft JhengHei Light;">Обозначения:</p>
+    <ul style="margin-top:5px; margin-left:7%; font-size: 12px; font-family: Microsoft JhengHei Light;">
+        <li>Данный паттерн является разворотным. Если иммется его присутствие на последних периодах возможно серьезное изменение тренда.</li>
+    </ul>
+
+    <p style="text-align:center; margin-top:5px; margin-bottom:10px; font-size: 20px; font-family: Microsoft JhengHei Light;">Паттерны "Нижний прямоугольник"<br></p>
+    <p style="text-align:center; margin-top:5px; margin-bottom:5px"><img src="\static\rbot_y.png" alt="rbot_y" width="700" height="280">
+    <p style="margin-top:5px; margin-bottom:5px; margin-left:7%; font-size: 12px; font-family: Microsoft JhengHei Light;">Обозначения:</p>
+    <ul style="margin-top:5px; margin-left:7%; font-size: 12px; font-family: Microsoft JhengHei Light;">
+        <li>Данный паттерн сигнализирует о предстоящем периоде консолидации.</li>
+    </ul>
+
+    <p style="text-align:center; margin-top:5px; margin-bottom:10px; font-size: 20px; font-family: Microsoft JhengHei Light;">Паттерны "Верхний треугольник"<br></p>
+    <p style="text-align:center; margin-top:5px; margin-bottom:5px"><img src="\static\ttop_y.png" alt="ttop_y" width="700" height="280">
+    <p style="margin-top:5px; margin-bottom:5px; margin-left:7%; font-size: 12px; font-family: Microsoft JhengHei Light;">Обозначения:</p>
+    <ul style="margin-top:5px; margin-left:7%; font-size: 12px; font-family: Microsoft JhengHei Light;">
+        <li>Данный паттерн сигнализирует о сохранении текущего тренда</li>
+    </ul>
+ </div>
+
+ <div class="footer" style="font-size: 15px; font-family: Microsoft JhengHei Light; font-weight:bold">Биржевой портал. Сделано в МГТУ им.Н.Э.Баумана, кафедра ИУ5 в 2020 году.<br>Багавиев Б.И.</div>
+
+</body>
+</html>
