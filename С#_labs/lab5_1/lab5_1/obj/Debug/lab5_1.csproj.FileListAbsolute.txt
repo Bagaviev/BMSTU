@@ -1,0 +1,6 @@
+C:\Users\bulat\Desktop\maga_iu5\sem3\c#_labs\lab5_1\lab5_1\bin\Debug\lab5_1.exe.config
+C:\Users\bulat\Desktop\maga_iu5\sem3\c#_labs\lab5_1\lab5_1\bin\Debug\lab5_1.exe
+C:\Users\bulat\Desktop\maga_iu5\sem3\c#_labs\lab5_1\lab5_1\bin\Debug\lab5_1.pdb
+C:\Users\bulat\Desktop\maga_iu5\sem3\c#_labs\lab5_1\lab5_1\obj\Debug\lab5_1.csprojResolveAssemblyReference.cache
+C:\Users\bulat\Desktop\maga_iu5\sem3\c#_labs\lab5_1\lab5_1\obj\Debug\lab5_1.exe
+C:\Users\bulat\Desktop\maga_iu5\sem3\c#_labs\lab5_1\lab5_1\obj\Debug\lab5_1.pdb

@@ -1,0 +1,5 @@
+C:\Users\bulat\Desktop\maga_iu5\sem3\c#_labs\lab5_4\lab5_4\bin\Debug\lab5_4.exe.config
+C:\Users\bulat\Desktop\maga_iu5\sem3\c#_labs\lab5_4\lab5_4\bin\Debug\lab5_4.exe
+C:\Users\bulat\Desktop\maga_iu5\sem3\c#_labs\lab5_4\lab5_4\bin\Debug\lab5_4.pdb
+C:\Users\bulat\Desktop\maga_iu5\sem3\c#_labs\lab5_4\lab5_4\obj\Debug\lab5_4.exe
+C:\Users\bulat\Desktop\maga_iu5\sem3\c#_labs\lab5_4\lab5_4\obj\Debug\lab5_4.pdb
